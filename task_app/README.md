@@ -21,9 +21,9 @@
 
 
 ## Sumário
-- [Visão Geral](#visao-geral)
+- [Visão Geral](#visão-geral)
 - [Requisitos](#requisitos)
-- [Dependências](#dependencias)
+- [Dependências](#dependências)
 - [Instalação](#instalação)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 
